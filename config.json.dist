@@ -1,0 +1,12 @@
+{
+	"pubnub": {
+		"publish_key": "pub-c-your-key",
+		"subscribe_key": "sub-c-your-key",
+		"ssl": false
+	},
+	"nexmo": {
+		"api_key": "your-key",
+		"api_secret": "your-secret"
+	},
+	"channel": "gorillas"
+}
